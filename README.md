@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MartinIwakura, nice to meet you :)
-- 🇧🇷 I am brazilian! and i can speak 3 languages, Portuguese, spanish and english! 
+- 🇧🇷 I am Brazilian! and i can speak 3 languages, Portuguese, spanish and english! 
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Python, C, Data base and Software Engineering
 
