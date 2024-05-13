@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MartinIwakura, nice to meet you :)
 - 🇧🇷 I am Brazilian! and i can speak 3 languages, Portuguese, Spanish and English! 
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Python, C, Data base and Software Engineering
+- 👀 I’m interested in Programming and Cybersecurity
+- 🌱 I’m currently learning Web development languages, Cloud computing, Data base, Computer architecture and Software Engineering
+  
 
 <!---
 MartinIwakura/MartinIwakura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
