@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Sérgio, nice to meet you!
-- 🇧🇷 I'm Brazilian and fluent in English.
+- 🇧🇷 I'm Brazilian and i am fluent in English.
 - 👀 I'm interested in programming and cybersecurity.
 
 
